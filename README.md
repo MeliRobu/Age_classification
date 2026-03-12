@@ -3,7 +3,7 @@ This is a Pyhton program that calculates your age and classifies you as an **adu
 It also shows you if there is a **value error**, for example, if the result is negative.
 
 # HOW TO USE IT:
-1. Open the file located in **English_proyect** folder 
+1. Open the file Age_classification 
 2. You have to **run** the file.
 3. Once you are in the terminal, the script it´s going to guide you:
 - Fisrt it welcomes you, then it asks you to:
