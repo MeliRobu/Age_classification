@@ -6,7 +6,7 @@ It also shows you if there is a **value error**, for example, if the result is n
 1. Open the file Age_classification 
 2. You have to **run** the file.
 3. Once you are in the terminal, the script it´s going to guide you:
-- Fisrt it welcomes you, then it asks you to:
+- First it welcomes you, then it asks you to:
     - Type the **current year**,
     - Type your **day of birth**.
 You ONLY have to type numbers.
